@@ -9,3 +9,4 @@
 
 #### 4. 其他
 1. [faceswap(换脸)](https://github.com/deepfakes/faceswap)
+2. [github添加gpg校验](https://help.github.com/en/articles/generating-a-new-gpg-key)
