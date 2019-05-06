@@ -6,6 +6,7 @@
 #### 2. 后端
 
 #### 3. 前端
+1. [Spring Boot Security 整合JWT](https://www.cnblogs.com/huanchupkblog/p/10634510.html)
 
 #### 4. 其他
 1. [faceswap(换脸)](https://github.com/deepfakes/faceswap)
